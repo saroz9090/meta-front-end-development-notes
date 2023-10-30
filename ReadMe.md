@@ -29,7 +29,7 @@ These notes can be used in various ways:
 
 ## Version History
 
-- **Version 1.0 (30-10-2023):** Initial release. Covers course "Introduction to Front-end Development" week-1 & week-2 .
+- **Version 1.0 (30-10-2023):** Initial release.
 
 For a detailed changelog, see [CHANGELOG.md](CHANGELOG.md).
 
