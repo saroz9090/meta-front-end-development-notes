@@ -11,7 +11,7 @@ All notable changes to the "Meta Front End Web Development Course Notes" will be
 - Notes for "Introduction of Front End Development" module.
 - Week 1 and 2 of the "Meta Front-End Developer Professional Certificate" course.
 - In Week1:
-  - [[1. HTTPS]]
+  - [[1. HTTPS]](HTTPS.md)
   - [[2. Other Internet Protocal]]
   - [[3. Intro to HTML, CSS and JavaScript]]
   - [[4. Webpages, Websites and Web Apps]]
