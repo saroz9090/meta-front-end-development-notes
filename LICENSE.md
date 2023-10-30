@@ -1,7 +1,6 @@
 
 
 Permissions 
-- Commercial use 
 - Modification 
 - Distribution 
 - Private use 
