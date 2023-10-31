@@ -35,7 +35,7 @@ For a detailed changelog, see [CHANGELOG.md](CHANGELOG.md).
 
 ## Prerequisites
 
-To get the most out of these notes, a basic understanding of computer network is recommended. You'll also need a code editor for hands-on exercises.
+To get the most out of these notes, a basic understanding of web development concepts is recommended. You'll also need a code editor for hands-on exercises.
 
 ## License and Usage Terms
 
