@@ -29,4 +29,4 @@
 
 Understanding the DOM is fundamental for web developers, enabling them to create interactive and engaging web pages that respond to user actions and provide a rich user experience.
 
-![[Screenshot 2023-11-07 230444.png]]
+![Screenshot 2023-11-07 230444](https://github.com/saroz9090/meta-front-end-development-notes/assets/72270719/f3c1e539-cc54-42d4-944b-b0c9d2a8d00e)
