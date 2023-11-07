@@ -29,9 +29,10 @@ These notes can be used in various ways:
 
 ## Version History
 
-- **Version 1.0 (30-10-2023):** Initial release.
+- **Version 1.1 (07-11-2023)
+- **Version 1.0 (30-10-2023)
 
-For a detailed changelog, see [CHANGELOG.md](CHANGELOG.md).
+For a detailed changelog, see [CHANGELOG.md](CHANGELOG.md). 
 
 ## Prerequisites
 
