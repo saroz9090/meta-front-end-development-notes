@@ -3,12 +3,22 @@
 
 All notable changes to the "Meta Front End Web Development Course Notes" will be documented in this file.
 
-## [1.1] - 2023-11-07
+## [1.1] - 2023-11-11
 
 ### Added
 
 - In Week 2:
-  - [[9_DOM]]
+  - 1_Getting started with HTML
+    - [[9_DOM]]
+    - [[10_Web Accessbility]]
+    - [[11_HTML elements reference (Mozilla)]]
+
+   - 2_CSS Basic
+     - [[1_CSS Overview]]
+     - [[2_Applying Styles to Specific Elements]]
+     - [[3_Different Types of selectors]]
+     
+
  
 
 ## [1.0] - 2023-10-30
@@ -17,6 +27,7 @@ All notable changes to the "Meta Front End Web Development Course Notes" will be
 
 - Notes for "Introduction of Front End Development" module.
 - Week 1 and 2 of the "Meta Front-End Developer Professional Certificate" course.
+
 - In Week1:
   - [[1_HTTPS]]
   - [[2_Other Internet Protocal]]
@@ -30,12 +41,17 @@ All notable changes to the "Meta Front End Web Development Course Notes" will be
   - 
 
 - In Week 2:
-  - [[1_HTML]]
-  - [[2_HTML Document]]
-  - [[3_Some HTML tags]]
-  - [[4_Examples]]
-  - [[5_Anchor Tag]]
-  - [[6_Image tag]]
-  - [[7_Tables]]
-  - [[8_Froms]]
-  
+   -  1_Getting started with HTML
+      -  [[1_HTML]]
+      - [[2_HTML Document]]
+      - [[3_Some HTML tags]]
+      - [[4_Examples]]
+      - [[5_Anchor Tag]]
+      - [[6_Image tag]]
+      - [[7_Tables]]
+      - [[8_Froms]]
+      
+
+- [[CHANGELOG]]
+- [[LICENSE]]
+- [[ReadMe]]
